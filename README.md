@@ -1,6 +1,7 @@
 # General-Learning-Path-for-back-end
 Help you have a general idea of the learning course. Maybe I'll update unregularly.<br>
-完成要求：Commit any changes to the file so that I know you've read it.
+完成要求：Commit any changes to the file so that I know you've read it.<br>
+看了一下还真不是乱画的
 ## 涉及技术栈
 - Node.js & Express.js
 - Web & HTTP基础
